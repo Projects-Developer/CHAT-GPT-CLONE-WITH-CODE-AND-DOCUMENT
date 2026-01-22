@@ -37,5 +37,4 @@ AI Chatbot, Voice Assistance, Artificial Intelligence, Natural Language Processi
 
 ### 📲 Contact (WhatsApp, Email, Call): https://www.contactvatshayan.com
 
-### 💻 Computer Science Projects: https://www.computer-science-project.in/
-
+### 💻 Youtube Channel: [Link](https://www.youtube.com/@computerscienceproject)
